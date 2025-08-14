@@ -1,2 +1,2 @@
 # ImmunoSeq
-Methods to predict antibody immunogenicity
+Methods to predict antibody immunogenicity (WIP)
