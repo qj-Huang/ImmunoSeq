@@ -15,4 +15,19 @@ ImmunoSeq -- an interpretable and applicable method for immunogenicity predictio
 4. To analyze Hu-mAb 25 antibody pairs, use `python eval_humab25.py`
 5. To perform sequence immunogenicity optimization, use `python infer.py`
 
+### Citation
+```
+@article{bytedance2025ImmunoSeq,
+  title={Antibody immunogenicity prediction and optimization with ImmunoSeq},
+  author={Huang, Qiaojing and He, Yi and Liu, Kai},
+  year={2025},
+  journal={bioRxiv},
+  publisher={Cold Spring Harbor Laboratory},
+  doi={10.1101/2025.08.14.670305},
+  URL={https://www.biorxiv.org/content/10.1101/2025.08.14.670305v1},
+  elocation-id={2025.08.14.670305},
+  eprint={https://www.biorxiv.org/content/10.1101/2025.08.14.670305v1.full.pdf},
+}
+```
+
 Please address all questions to huangqiaojing@bytedance.com
